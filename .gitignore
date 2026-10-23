@@ -14,7 +14,7 @@ backend/*.pyc
 !.env.example
 
 # Local database
-backend/*.db
+*.db
 
 # Editor files
 .vscode/
