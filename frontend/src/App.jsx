@@ -1036,9 +1036,6 @@ function App() {
                   <div>
                     <p className="text-sm font-semibold text-emerald-200">SEHATBUDGET INSIGHTS</p>
                     <h2 className="mt-2 text-2xl font-bold">Your spending at a glance</h2>
-                    <p className="mt-2 max-w-2xl text-sm leading-6 text-emerald-100">
-                      These suggestions use your recorded expenses. This is a frontend demonstration, not a connected AI model or medical recommendation.
-                    </p>
                   </div>
                 </div>
               </div>
